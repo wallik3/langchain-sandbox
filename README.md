@@ -10,6 +10,9 @@
 [![Deno](https://img.shields.io/badge/Deno-Required-green.svg)](https://deno.land/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## Application Example
+- Multi Agent : https://medium.com/the-ai-forum/build-a-code-generator-and-executor-agent-using-langgraph-langchain-sandbox-and-groq-kimi-k2-291a88e66e6f
+  
 ## 📋 Overview
 
 LangChain Sandbox provides a secure environment for executing untrusted Python code. It leverages Pyodide (Python compiled to WebAssembly) to run Python code in a sandboxed environment.
